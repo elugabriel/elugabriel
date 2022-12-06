@@ -82,7 +82,7 @@
   
 
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=elugabriel&show_icons=true&theme=radical)
+![Gabriel's GitHub stats]
   
 
 <br/>  
