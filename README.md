@@ -78,7 +78,7 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 
-<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elugabriel&langs_count=8)](https://github.com/elugabriel/github-readme-stats)
  
 
