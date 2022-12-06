@@ -1,4 +1,4 @@
-<img src="https://github.com/elugabriel/elugabriel/commit/8858eaecb309ec4842d2a5f42c18e2242b387c03" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<img src="https://github.com/elugabriel/elugabriel/blob/main/header.png" alt="banner that says Sarah hart Landolt - Data Scientist, Software Developer">
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
