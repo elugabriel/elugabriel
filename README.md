@@ -79,14 +79,7 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=elugabriel&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+  
 
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=elugabriel&show_icons=true&theme=radical)
