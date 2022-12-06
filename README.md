@@ -91,8 +91,7 @@
 
 <br/>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elugabriel&layout=compact)](https://github.com/elugabriel/github-readme-stats) 
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elugabriel&layout=compact)]
 
 <br/>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elugabriel&layout=compact)](https://github.com/elugabriel/github-readme-stats)
