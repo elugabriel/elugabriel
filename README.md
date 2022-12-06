@@ -89,7 +89,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=elugabriel&show_icons=true&theme=radical)
   
 
 <br/>  
