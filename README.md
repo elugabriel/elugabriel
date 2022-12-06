@@ -91,9 +91,7 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=elugabriel&&style=flat-square" align="center" />
-</div>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elugabriel&layout=compact)](https://github.com/elugabriel/github-readme-stats) 
   
 
 <br/>  
