@@ -1,9 +1,7 @@
 <img src="https://github.com/elugabriel/elugabriel/blob/main/header.png" alt="banner that says Sarah hart Landolt - Data Scientist, Software Developer">
 
 ### <div align="center">I'm Gabriel, a full-time full-stack Data Scientist and Python Developer 👨‍💻🚀</div>  
-
-'m a data scientist with a background in software development. I enjoy using data to solve complex problems and develop insights that drive business decisions. I'm passionate about creating high-quality software that's efficient, scalable, and user-friendly.
-
+I'm a data scientist with a keen interest in uncovering insights from complex data sets. I specialize in designing and implementing machine learning models, statistical analyses, and data visualizations to solve real-world problems. My expertise includes Python, R, SQL, and various machine learning frameworks. I'm passionate about using data-driven insights to inform business decisions and drive innovation. When I'm not exploring data, you can find me reading research papers, experimenting with new algorithms, and participating in data science competitions.
 <br/>  
 
 
