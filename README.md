@@ -1,18 +1,8 @@
 <img src="https://github.com/elugabriel/elugabriel/blob/main/header.png" alt="banner that says Sarah hart Landolt - Data Scientist, Software Developer">
 
 ### <div align="center">I'm Gabriel, a full-time full-stack Data Scientist and Python Developer 👨‍💻🚀</div>  
-  
 
- 
-
-- 🌱 I’m currently learning Back End web development Using Python framework  
-  
-
-- ❓ Ask me about anything related to Data and python  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+'m a data scientist with a background in software development. I enjoy using data to solve complex problems and develop insights that drive business decisions. I'm passionate about creating high-quality software that's efficient, scalable, and user-friendly.
 
 <br/>  
 
