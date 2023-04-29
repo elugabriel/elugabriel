@@ -1,7 +1,18 @@
 <img src="https://github.com/elugabriel/elugabriel/blob/main/header.png" alt="banner that says Sarah hart Landolt - Data Scientist, Software Developer">
 
-### <div align="center">I'm Gabriel, a full-time full-stack Data Scientist and Python Developer 👨‍💻🚀</div>  
-I'm a data scientist with a keen interest in uncovering insights from complex data sets. I specialize in designing and implementing machine learning models, statistical analyses, and data visualizations to solve real-world problems. My expertise includes Python, R, SQL, and various machine learning frameworks. I'm passionate about using data-driven insights to inform business decisions and drive innovation. When I'm not exploring data, you can find me reading research papers, experimenting with new algorithms, and participating in data science competitions.
+### <div align="center">I'm a dedicated full-stack Data Scientist and Python Developer with a strong background in web backend development. With a passion for uncovering insights from complex data sets, Gabriel specializes in designing and implementing machine learning models, statistical analyses, and data visualizations to solve real-world problems. His expertise includes Python, R, SQL, and various machine learning frameworks.
+
+In addition to his data science skills, Gabriel is also an experienced web backend developer. He has a deep understanding of web development methodologies and is proficient in a range of backend programming languages and frameworks, including Flask and Django. His knowledge of both data science and web backend development enables him to tackle complex projects that require a combination of skills.
+
+As a full-time professional in the data science and web development fields, Gabriel is committed to using his skills to drive innovation and inform business decisions. He stays up-to-date with the latest research and techniques by reading research papers, experimenting with new algorithms, and participating in data science competitions.
+
+With a keen eye for detail and a drive for excellence, Gabriel consistently delivers high-quality work that exceeds expectations. He is passionate about using data-driven insights and web backend development best practices to create meaningful solutions that help organizations achieve their goals.
+
+
+
+
+
+
 <br/>  
 
 
